@@ -1,5 +1,5 @@
 # java-design-patterns
 Java design patterns examples.
 
-##Strategy design pattern
+## Strategy design pattern
 [01 - Scoreboard](./strategy-design-pattern/scoreboard)
